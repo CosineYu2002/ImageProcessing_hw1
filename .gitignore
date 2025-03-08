@@ -1,1 +1,4 @@
-hw1/
+/venv
+test.ipynb
+*.png
+!result.png
