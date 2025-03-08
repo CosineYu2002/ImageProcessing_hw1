@@ -48,7 +48,3 @@ This project demonstrates the use of histogram equalization to enhance the contr
 Here is an example of the output:
 
 ![Result](result.png)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
